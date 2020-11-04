@@ -1,0 +1,13 @@
+[package]
+name = "abc177"
+version = "0.1.0"
+authors = ["Yuta123456 <k5418070@stu.chs.nihon-u.ac.jp>"]
+edition = "2018"
+
+# dependencies added to new project
+[dependencies]
+proconio = "*"
+
+[profile.release]
+lto = true
+panic = 'abort'
