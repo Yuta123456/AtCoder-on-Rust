@@ -1,0 +1,7 @@
+"# AtCoder-on-Rust" 
+"# AtCoder-on-Rust" 
+"# Atcoder-Rust" 
+"# Atcoder-Rust" 
+"# Atcoder-Rust" 
+"# Rust-Atcoder" 
+"# AtCoder-on-Rust" 
